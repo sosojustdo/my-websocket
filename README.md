@@ -1,10 +1,9 @@
 # my-websocket
 websocket learning
 
-Use Wiki:\n
+Use Wiki:
 
-1: git clone code
-git clone https://github.com/sosojustdo/my-websocket.git
+1: git clone https://github.com/sosojustdo/my-websocket.git
 
 2: import j2ee project
 
