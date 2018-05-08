@@ -6,7 +6,7 @@ bin/
 .settings/
 .classpath
 *.orig
-*.project
+#*.project
 # idea ignore
 .idea/
 *.ipr
